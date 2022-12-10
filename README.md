@@ -1,5 +1,9 @@
 # CS2
 Repository for my final CS2 submission 
+## Hook Document
+
+## Rubric 
+
 ## Materials  
 ### Research articles 
 
