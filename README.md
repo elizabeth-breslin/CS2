@@ -1,8 +1,10 @@
 # CS2
 Repository for my final CS2 submission 
 ## Hook Document
+<a href="https://github.com/elizabeth-breslin/CS2/blob/main/Hook.pdf">Hook Document</a> <br>
 
 ## Rubric 
+<a href="https://github.com/elizabeth-breslin/CS2/blob/main/Rubric.pdf">Rubric</a>
 
 ## Materials  
 ### Research articles 
